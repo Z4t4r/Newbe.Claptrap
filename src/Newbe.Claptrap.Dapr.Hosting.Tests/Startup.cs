@@ -91,7 +91,7 @@ namespace Newbe.Claptrap.Dapr.Hosting.Tests
 
             //app.UseCloudEvents();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             //app.UseEndpoints(endpoints =>
             //{
